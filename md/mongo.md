@@ -105,7 +105,7 @@ https://hub.docker.com/_/mongo
 
  
 
-![20190118191204864](D:\学习\md笔记\Xu_NOTE\md\images\20190118191204864.png)
+![20190118191204864](https://github.com/CodeXunn/Xu_NOTE/blob/master/md/images/20190118191204864.png)
 
 
 
