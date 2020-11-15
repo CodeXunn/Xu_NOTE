@@ -222,3 +222,10 @@ docker exec -it bc7465908096 bash
 docker rm -f 1e560fca3906
 ```
 
+### 参考
+
+https://www.runoob.com/docker/docker-container-usage.html
+
+https://docs.docker.com/engine/install/centos/#installation-methods
+
+https://time.geekbang.org/course/detail/100023501-83549
