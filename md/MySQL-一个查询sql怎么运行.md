@@ -12,7 +12,7 @@ mysql> select * from T where ID=10；
 
 下面我给出的是 MySQL 的基本架构示意图，从中你可以清楚地看到 SQL 语句在 MySQL 的各个功能模块中的执行过程。
 
-![2021030701](E:\学习\md\images\2021030701.png)
+![MySQL 的逻辑架构图](images/2021030701.png)
 
 ​																				**MySQL 的逻辑架构图**
 
